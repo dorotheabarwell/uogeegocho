@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://keeshachoh.morkcoin.com/sitemap.xml
